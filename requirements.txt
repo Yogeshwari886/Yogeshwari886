@@ -3,4 +3,3 @@ gunicorn
 sklearn
 pandas
 python
-google colab
